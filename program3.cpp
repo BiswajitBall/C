@@ -9,7 +9,7 @@ int main()
 {  //local variable declaration
    int a, b, c;
 
-   //asiign value to variables
+   //assign value to variables
    a=2;
    b=3;
    c=(a+b)/g;
