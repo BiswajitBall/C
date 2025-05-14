@@ -10,7 +10,7 @@ const char newline = '\n';
 int main()
 
 {
-   //variavle declaration
+   //variable declaration
    double r, area;
 
    //assign values
